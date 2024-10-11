@@ -49,7 +49,7 @@ To get started with **Finisher**, follow these steps:
 
 1. **Clone the Repository**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/saadsrabon/finisher.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -70,7 +70,7 @@ To get started with **Finisher**, follow these steps:
    ```
 
 5. **Access the Application**
-   Open your browser and navigate to `http://localhost:3000` to start using **Finisher**.
+   Open your browser and navigate to `http://localhost:5173` to start using **Finisher**.
 
 ## **Author**
 
@@ -84,4 +84,3 @@ Finisher simplifies task management with its intuitive interface and powerful fe
 
 ---
 
-Let me know if you need any further modifications!
